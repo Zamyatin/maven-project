@@ -2,6 +2,5 @@ Hello, World!!
 <br>
 This is Raj's sweet java website thing!
 <br>
-Checking parallel pipelines.
+Let's check automated jenkins builds!
 <br>
-another test.
